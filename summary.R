@@ -1,5 +1,5 @@
 library(caret)
 
 myfunction <- function(x) {
-	x * 2
+	x * 10 
 }
